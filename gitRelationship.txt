@@ -1,1 +1,0 @@
-Git is a system that allows you to keep track of different versions of files and files in your system all tracked via history, while github is the cloud hosted service that allows you to manage all of our repositories in one place, Git is the concept but Github is the tool
