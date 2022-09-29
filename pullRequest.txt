@@ -1,3 +1,0 @@
-A pull request lets others know that changes have been committed to a branch
-in the repository, and this allows collaborators to review and discuss the commit
-before merging it into the main branch
